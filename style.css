@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+#gameCanvas{
+    border: solid 1px;
+    image-rendering: crisp-edges;
+}
